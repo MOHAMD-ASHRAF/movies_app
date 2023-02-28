@@ -1,16 +1,11 @@
-# movies_app
+# some photot from project
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### screens of application 
+movies app show the user the top rated movie, and popular movies, and now playing movies
+<div>
+<img src="https://user-images.githubusercontent.com/84055555/221942828-6ab75bc4-b544-4963-9c45-205f884230d4.jpg" width= 180>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/84055555/221942364-3a409ddb-c520-4451-b10e-571e3b20ac48.jpg" width= 180>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/84055555/221942503-aa7b6464-ed8a-493e-92a3-84879fe48b97.jpg" width= 180>
+</div>
