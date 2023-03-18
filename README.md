@@ -1,4 +1,4 @@
-# some photot from project
+# some photo from project
 
 #### screens of application 
 movies app show the user the top rated movie, and popular movies, and now playing movies
