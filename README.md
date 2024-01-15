@@ -1,6 +1,6 @@
 # movie_app
 
-#### screens of application 
+### screens of application 
 movies app show the user the top rated movie, and popular movies, and now playing movies
 <div>
 <img src="https://user-images.githubusercontent.com/84055555/221942828-6ab75bc4-b544-4963-9c45-205f884230d4.jpg" width= 180>
